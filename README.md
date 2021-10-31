@@ -1,4 +1,4 @@
-# DiscordPinger
+# DiscorD SPAMMM BOT MADE BY ROMEO 
 Bot for ping spamming someone.
 
 Main version (in NodeJS): [here](https://github.com/justwolfii/DiscordPinger)
